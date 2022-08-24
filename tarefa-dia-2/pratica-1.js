@@ -1,5 +1,5 @@
-Nome = "Patrickson"
-Email = "patrickcarvalho198@gmail.com"
-Profissao = "nenhuma"
-Idade = "23"
-Lugar dos sonhos = "EUA" 
+Nome 
+Email 
+Profissao
+Idade 
+Lugar que sonha um dia conhecer
